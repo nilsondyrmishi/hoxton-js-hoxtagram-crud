@@ -1,0 +1,45 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Coder dog",
+      "likes": 12,
+      "image": "./assets/coder-dog.png",
+      "comments": [
+        {
+          "imageId": 1,
+          "content": "",
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Coder cats",
+      "likes": 5,
+      "image": "./assets/coder-cat.jpeg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "content": "He has the paws for this!",
+      "imageId": 2
+    },
+    {
+      "id": 3,
+      "content": "Someone's in trouble!",
+      "imageId": 2
+    },
+    {
+      "imageId": 1,
+      "content": "",
+      "id": 4
+    },
+    {
+      "imageId": 1,
+      "content": "cone",
+      "id": 5
+    }
+  ]
+}
